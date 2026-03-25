@@ -1,75 +1,68 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:378ADD&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Erick Flores</h1>
-<h3 align="center">Building AI, Data & Real-World Tech Solutions 🚀</h3>
+<h1>Erick Flores</h1>
 
-<p align="center">
-🚀 Business Intelligence Student at Tecnológico de Monterrey <br>
-💡 Passionate about Data Science, AI and building real-world solutions
-</p>
+<p><em>Building AI, Data & Real-World Tech Solutions</em></p>
 
----
+![](https://img.shields.io/badge/BI%20%40%20Tec%20de%20Monterrey-0F6E56?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Data%20Science-185FA5?style=flat-square)
+![](https://img.shields.io/badge/Machine%20Learning-BA7517?style=flat-square)
+![](https://img.shields.io/badge/AWS%20%26%20Cloud-D85A30?style=flat-square)
 
-## 🚀 About Me
-
-📊 Building **data-driven solutions for real-world problems**
-🤖 Focused on **AI, Machine Learning & automation**
-📱 Developing **apps with real user impact**
-☁️ Exploring **cloud systems (AWS) & scalable architectures**
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,aws,flask,mysql,git,github" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-  🤖 **WhatsApp AI Chatbot (RAG + LLM)**  
-  Intelligent assistant for internal queries with context memory
-
-  📊 **Sales Analytics Dashboard (Power BI + SQL)**  
-  Data-driven insights that improved pricing strategies
-
-  📱 **Previne App (SwiftUI)**  
-  Patient-care coordination app with reminders & supervision system
-
-  ⚙️ **Data Pipelines (Python + MySQL)**  
-  Automated ETL processes integrating multiple data sources
+- 📊 Building **data-driven solutions** for real-world problems
+- 🤖 Focused on **AI, Machine Learning & automation**
+- 📱 Developing apps with **real user impact**
+- ☁️ Exploring **AWS & scalable architectures**
+- 📍 Monterrey, MX
 
 ---
 
-## 🎯 Focus
+## Tech Stack
 
-Building end-to-end solutions combining:
-
-- Data Engineering  
-- Artificial Intelligence  
-- Scalable Cloud Systems  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI architectures  
-- Cloud deployment  
-- End-to-end product development
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-D85A30?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F6E56?style=flat-square&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-444441?style=flat-square&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-BA7517?style=flat-square&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-BA7517?style=flat-square&logo=powerbi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0F6E56?style=flat-square)
+![Git](https://img.shields.io/badge/Git-D85A30?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight" />
-</p>
+| Project | Stack | Description |
+|---|---|---|
+| 🤖 WhatsApp AI Chatbot | `RAG` `LLM` `Python` | Internal assistant with context memory & grounded responses |
+| 📊 Sales Analytics Dashboard | `Power BI` `SQL` | Insights that improved pricing strategies end-to-end |
+| 📱 Previne App | `SwiftUI` | Patient-care app with reminders & supervision — deployed |
+| ⚙️ ETL Pipelines | `Python` `MySQL` | Automated multi-source data integration |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight" />
-</p>
+---
+
+## Currently Learning
+```
+Advanced AI Architectures  ████████░░  LLM agents, fine-tuning
+Cloud Deployment & DevOps  ██████░░░░  AWS, Docker, CI/CD
+End-to-End Product Dev     ████████░░  Idea → production
+```
+
+---
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight&hide_border=true&background=00000000" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1a1a2e&height=80&section=footer" width="100%"/>
+
+</div>
