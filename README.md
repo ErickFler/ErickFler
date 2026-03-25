@@ -30,18 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
   🤖 **WhatsApp AI Chatbot (RAG + LLM)**  
@@ -72,4 +60,16 @@ Building end-to-end solutions combining:
 
 - Advanced AI architectures  
 - Cloud deployment  
-- End-to-end product development  
+- End-to-end product development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight" />
+</p>
