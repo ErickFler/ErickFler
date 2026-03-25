@@ -17,15 +17,15 @@
 
 ## About Me
 
-- 📊 Building **data-driven solutions** for real-world problems
-- 🤖 Focused on **AI, Machine Learning & automation**
-- 📱 Developing apps with **real user impact**
-- ☁️ Exploring **AWS & scalable architectures**
-- 📍 Monterrey, MX
+> BI student at Tec de Monterrey building end-to-end solutions at the intersection of **AI, data engineering & cloud** — from ETL pipelines to LLM-powered apps deployed for real users.
+
+📍 Monterrey, MX
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-D85A30?style=flat-square&logo=swift&logoColor=white)
@@ -36,16 +36,22 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0F6E56?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-D85A30?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
 ---
 
 ## Featured Projects
 
-  | Project | Stack | Description |
-  |---|---|---|
-  | 🤖 WhatsApp AI Chatbot | `RAG` `LLM` `Python` | Internal assistant with context memory & grounded responses |
-  | 📊 Sales Analytics Dashboard | `Power BI` `SQL` | Insights that improved pricing strategies end-to-end |
-  | 📱 Previne App | `SwiftUI` | Patient-care app with reminders & supervision — deployed |
-  | ⚙️ ETL Pipelines | `Python` `MySQL` | Automated multi-source data integration |
+<div align="center">
+
+| | Project | Stack | |
+|:---:|:---|:---|:---|
+| 🤖 | **WhatsApp AI Chatbot** | `RAG` `LLM` `Python` | Internal assistant with context memory & grounded responses |
+| 📊 | **Sales Analytics Dashboard** | `Power BI` `SQL` | Insights that directly improved pricing strategies |
+| 📱 | **Previne App** | `SwiftUI` | Patient-care app with reminders & supervision — deployed |
+| ⚙️ | **ETL Pipelines** | `Python` `MySQL` | Automated multi-source data integration |
+
+</div>
 
 ---
 
