@@ -40,12 +40,12 @@
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| 🤖 WhatsApp AI Chatbot | `RAG` `LLM` `Python` | Internal assistant with context memory & grounded responses |
-| 📊 Sales Analytics Dashboard | `Power BI` `SQL` | Insights that improved pricing strategies end-to-end |
-| 📱 Previne App | `SwiftUI` | Patient-care app with reminders & supervision — deployed |
-| ⚙️ ETL Pipelines | `Python` `MySQL` | Automated multi-source data integration |
+  | Project | Stack | Description |
+  |---|---|---|
+  | 🤖 WhatsApp AI Chatbot | `RAG` `LLM` `Python` | Internal assistant with context memory & grounded responses |
+  | 📊 Sales Analytics Dashboard | `Power BI` `SQL` | Insights that improved pricing strategies end-to-end |
+  | 📱 Previne App | `SwiftUI` | Patient-care app with reminders & supervision — deployed |
+  | ⚙️ ETL Pipelines | `Python` `MySQL` | Automated multi-source data integration |
 
 ---
 
