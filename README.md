@@ -1,9 +1,10 @@
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Erick Flores</h1>
-<h3 align="center">Data | AI | Analytics | App Development</h3>
+<h3 align="center">Building AI, Data & Real-World Tech Solutions 🚀</h3>
 
 <p align="center">
 🚀 Business Intelligence Student at Tecnológico de Monterrey <br>
@@ -14,19 +15,17 @@
 
 ## 🚀 About Me
 
-- 📊 I build **data-driven solutions**
-- 🤖 Interested in **AI, Machine Learning and Automation**
-- 📱 Developing **apps with real impact**
-- ☁️ Exploring **Cloud (AWS) and scalable systems**
+📊 Building **data-driven solutions for real-world problems**
+🤖 Focused on **AI, Machine Learning & automation**
+📱 Developing **apps with real user impact**
+☁️ Exploring **cloud systems (AWS) & scalable architectures**
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sql,swift,r,aws,flask,mysql,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,swift,aws,flask,mysql,git,github" />
 </p>
 
 ---
@@ -34,21 +33,38 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🤖 AI Chatbot (WhatsApp + RAG)
-- 📊 Sales & Business Analytics Dashboard
-- 📱 SwiftUI App (Previne)
-- ⚙️ Automation pipelines with Python
+  🤖 **WhatsApp AI Chatbot (RAG + LLM)**  
+  Intelligent assistant for internal queries with context memory
+
+  📊 **Sales Analytics Dashboard (Power BI + SQL)**  
+  Data-driven insights that improved pricing strategies
+
+  📱 **Previne App (SwiftUI)**  
+  Patient-care coordination app with reminders & supervision system
+
+  ⚙️ **Data Pipelines (Python + MySQL)**  
+  Automated ETL processes integrating multiple data sources
+
+---
+
+## 🎯 Focus
+
+Building end-to-end solutions combining:
+
+- Data Engineering  
+- Artificial Intelligence  
+- Scalable Cloud Systems  
 
 ---
 
@@ -57,11 +73,3 @@
 - Advanced AI architectures  
 - Cloud deployment  
 - End-to-end product development  
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-<a href="https://linkedin.com/in/TU_LINKEDIN">LinkedIn</a>
-</p>
