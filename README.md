@@ -17,9 +17,7 @@
 
 ## About Me
 
-> BI student at Tec de Monterrey building end-to-end solutions at the intersection of **AI, data engineering & cloud** — from ETL pipelines to LLM-powered apps deployed for real users.
-
-📍 Monterrey, MX
+> BI student at Tec de Monterrey building end-to-end solutions at the intersection of **AI, data engineering & cloud** — from ETL pipelines to LLM-powered apps deployed for real users. 📍 Monterrey, MX
 
 ---
 
