@@ -64,7 +64,6 @@ End-to-End Product Dev     ████████░░  Idea → production
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ErickFler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFler&theme=tokyonight&hide_border=true&background=00000000" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1a1a2e&height=80&section=footer" width="100%"/>
